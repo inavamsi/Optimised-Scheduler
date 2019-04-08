@@ -9,8 +9,8 @@ Each tex tfile will have following output : pid finish_time waiting_time turnaro
 each file will be sorted in increasing process id
 
 #Running from terminal
-  enter directory of file
-  python <this file name>.py <input file name>
+enter directory of file
+python <this file name>.py <input file name>
 
 
 
